@@ -1,0 +1,8 @@
+0.	Vehicle Type: Car	Pump No. : 4	Litres Dispensed to Vehicle: 12
+
+1.	Vehicle Type: Car	Pump No. : 9	Litres Dispensed to Vehicle: 12
+
+2.	Vehicle Type: Car	Pump No. : 8	Litres Dispensed to Vehicle: 12
+
+3.	Vehicle Type: Car	Pump No. : 3	Litres Dispensed to Vehicle: 12
+

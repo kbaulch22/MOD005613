@@ -1,0 +1,540 @@
+185.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+187.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 123
+
+171.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 123
+
+197.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 68
+
+214.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+216.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 40
+
+196.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 117
+
+212.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+198.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 117
+
+241.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 38
+
+215.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 115
+
+213.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 115
+
+217.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 115
+
+227.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+263.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 38
+
+268.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+243.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 113
+
+242.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 113
+
+261.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 113
+
+262.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 70
+
+269.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 113
+
+283.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 38
+
+270.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 72
+
+297.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 6	Litres Dispensed to Vehicle: 39
+
+298.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 5	Litres Dispensed to Vehicle: 39
+
+277.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 123
+
+296.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 119
+
+318.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+313.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+311.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+316.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+309.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+312.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+314.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+319.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 117
+
+359.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 37
+
+336.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 118
+
+357.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+358.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+362.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+360.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 120
+
+363.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 120
+
+372.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 114
+
+377.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 120
+
+408.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 39
+
+380.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 120
+
+379.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 116
+
+415.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+406.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+413.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 116
+
+405.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 116
+
+423.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+416.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+421.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 123
+
+448.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 39
+
+447.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+463.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+464.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+459.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+462.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 72
+
+446.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 72
+
+458.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 72
+
+460.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 72
+
+478.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 72
+
+465.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 116
+
+505.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+477.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 121
+
+507.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+503.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+504.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 3	Litres Dispensed to Vehicle: 67
+
+508.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+527.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 40
+
+506.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 120
+
+509.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 70
+
+552.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+528.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+529.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+549.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 116
+
+550.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 116
+
+554.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 116
+
+571.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+548.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 116
+
+553.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 116
+
+574.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+575.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+578.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+598.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+572.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+573.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+599.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 113
+
+600.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 68
+
+603.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+614.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 38
+
+602.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 119
+
+617.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 38
+
+624.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 38
+
+625.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 38
+
+604.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 72
+
+616.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+646.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+639.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 71
+
+623.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+644.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 69
+
+645.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 69
+
+631.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+638.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+659.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+671.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 9	Litres Dispensed to Vehicle: 40
+
+664.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 68
+
+685.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 40
+
+688.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 40
+
+684.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+686.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 119
+
+672.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+673.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+713.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 38
+
+717.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 38
+
+690.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 73
+
+689.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 116
+
+715.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 116
+
+716.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 68
+
+718.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 73
+
+714.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 118
+
+744.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 39
+
+739.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 118
+
+731.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 73
+
+768.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 40
+
+746.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 125
+
+745.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+765.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+767.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+772.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+775.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+774.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 121
+
+782.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 121
+
+787.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 124
+
+827.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 68
+
+829.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 124
+
+816.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 124
+
+826.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 124
+
+830.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 124
+
+828.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 124
+
+860.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+861.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+832.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 5	Litres Dispensed to Vehicle: 116
+
+859.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 67
+
+872.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 38
+
+873.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 38
+
+875.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+877.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 38
+
+871.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+876.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+890.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 37
+
+878.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 3	Litres Dispensed to Vehicle: 117
+
+874.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 73
+
+887.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 73
+
+886.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 73
+
+905.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 67
+
+907.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 119
+
+927.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 40
+
+904.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+903.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+934.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+942.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+928.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+933.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+935.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+967.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 5	Litres Dispensed to Vehicle: 40
+
+941.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 124
+
+940.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 124
+
+972.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+980.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 40
+
+971.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 70
+
+984.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 40
+
+983.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 122
+
+970.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 122
+
+979.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 122
+
+981.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 122
+
+982.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 122
+
+986.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+998.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 116
+
+1025.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+1026.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 69
+
+1030.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 69
+
+1042.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 37
+
+1041.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 37
+
+1024.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+1040.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+1028.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+1029.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+1052.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 117
+
+1055.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+1056.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+1051.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 71
+
+1054.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 71
+
+1076.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 117
+
+1080.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 123
+
+1081.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+1095.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+1106.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+1079.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 115
+
+1097.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 68
+
+1102.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+1105.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 115
+
+1096.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 115
+
+1101.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 115
+
+1103.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 115
+
+1122.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 67
+
+1146.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 38
+
+1120.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+1148.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 9	Litres Dispensed to Vehicle: 40
+
+1149.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 9	Litres Dispensed to Vehicle: 40
+
+1147.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+1160.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 40
+
+1151.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+1163.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+1164.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+1150.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 8	Litres Dispensed to Vehicle: 73
+
+1176.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 122
+
+1189.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 5	Litres Dispensed to Vehicle: 40
+
+1162.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 124
+
+1188.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 72
+
+1202.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 39
+
+1206.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 39
+
+1207.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 39
+
+1205.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 73
+
+1191.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 73
+
+1223.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+1201.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+1203.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 121
+
+1221.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 6	Litres Dispensed to Vehicle: 73
+
+1235.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 39
+
+1236.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 39
+
+1234.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 71
+
+1246.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 71
+
+1248.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 68
+
+1250.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+1251.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 71
+
+1237.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 124
+
+1247.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 124
+
+1281.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 1	Litres Dispensed to Vehicle: 40
+
+1273.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 1	Litres Dispensed to Vehicle: 68
+
+1277.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 68
+
+1280.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 118
+
+1299.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 4	Litres Dispensed to Vehicle: 38
+
+1276.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 118
+
+1278.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 118
+
+1297.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 118
+
+1282.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 113
+
+1300.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 1	Litres Dispensed to Vehicle: 123
+
+1321.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 72
+
+1323.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 70
+
+1325.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+1326.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+1322.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+1342.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+1343.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 7	Litres Dispensed to Vehicle: 70
+
+1328.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 4	Litres Dispensed to Vehicle: 72
+
+1347.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 67
+
+1341.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 72
+
+1371.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+1375.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+1376.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+1367.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 8	Litres Dispensed to Vehicle: 67
+
+1368.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 8	Litres Dispensed to Vehicle: 67
+
+1372.	Vehicle Type: Van	Fuel Type: LPG  	Pump No. : 4	Litres Dispensed to Vehicle: 67
+
+1374.	Vehicle Type: Van	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 116
+
+1392.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+1393.	Vehicle Type: Car	Fuel Type: Unleaded	Pump No. : 7	Litres Dispensed to Vehicle: 39
+
+1373.	Vehicle Type: HGV	Fuel Type: Diesel	Pump No. : 7	Litres Dispensed to Vehicle: 116
+

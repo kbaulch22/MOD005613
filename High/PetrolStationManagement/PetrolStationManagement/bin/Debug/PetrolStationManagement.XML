@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PetrolStationManagement</name>
+    </assembly>
+    <members>
+        <member name="T:PetrolStationManagement.Data">
+            <summary>
+                A class used to create new vehicles and assign them to empty pumps. 
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Data.CreateVehicle(System.Object,System.Timers.ElapsedEventArgs)">
+            <summary>
+                A method used to create new vehicles.
+            </summary>
+            <remarks>
+                This method calls upon the RandomVehicleGenerator(), 
+                RandomFuelGenerator() and RandomRefuelTime() every time it is
+                called to ensure that the values generated from these methods
+                are truly random. It then creates a new vehicle with a random
+                type, fuel type and refuel time. This vehicle is then added to
+                the master list 'vehicles'.
+            </remarks>
+            <param name="sender">Contains a reference to the time elapsed object which raised this event.</param>
+            <param name="e">A parameter containing the event data.</param>
+        </member>
+        <member name="M:PetrolStationManagement.Data.AssignVehicleToPump">
+            <summary>
+                A method to assign a vehicle to a pump should it be available.
+            </summary>    
+            <remarks>
+                This method uses logic to assign each vehicle in the 'vehicles' 
+                list to the 'last available' pump. This means that instead of 
+                simply assigning each vehicle sequentially during the program's 
+                lifetime, the app now simulates a real petrol station by operating
+                a queuing system in the forecourt. 
+                
+                This queuing system means that a vehicle using pump #1 would block
+                new vehicles access to pumps #2 and #3 (the same applies for the
+                other lanes) - as per figure #1 in the Assignment Specification.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Data.RemoveFromQueue(System.Object,System.Timers.ElapsedEventArgs)">
+            <summary>
+                A method to remove a vehicle from the forecourt if it isn't serviced.
+            </summary>
+            <remarks>
+                This method removes the vehicle from the master list of vehicles if it
+                isn't serviced in X seconds (where X is between 1000 and 2000 milli-
+                seconds). The number of vehicles which left the forecourt without being
+                serviced is then incremented so the value can be updated on the console 
+                UI.
+            </remarks>
+            <param name="sender">Contains a reference to the time elapsed object which raised this event.</param>
+            <param name="e">A parameter containing the event data.</param>
+        </member>
+        <member name="T:PetrolStationManagement.Display">
+            <summary>
+                A static class used to draw all elements of the program onto the console
+                UI.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Display.DrawVehicleQueue">
+            <summary>
+                A method to draw the vehicle queue onto the console UI.
+            </summary>    
+            <remarks>
+                This method draws the vehicle queue onto the console UI. Every
+                vehicle in the 'vehicles' list that has not been assigned to a 
+                pump or left the forecourt before assignation is displayed in 
+                the vehicle queue alongside it's ID, type and fuel type.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Display.DrawForecourt">
+            <summary>
+                A method to draw the petrol station forecourt onto the console UI.
+            </summary>    
+            <remarks>
+                This method draws the petrol station forecourt onto the console UI. 
+                It first calls on the PumpIsAvailable() method to return true if 
+                the pump is available and false if it's in use, and then writes the
+                pump status (either INUSE or EMPTY) to the console. The nine pumps
+                are then arranged in lanes of three. 
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Display.DrawCounters">
+            <summary>
+                A method to draw the counters and their values onto the console UI.
+            </summary>    
+            <remarks>
+                This method calls on the DisplayCounters() method to update the counter
+                values and then displays them on the console UI.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Display.DrawUI">
+            <summary>
+                A public method to draw all elements of the program onto the console
+                UI.
+            </summary>    
+            <remarks>
+                This method allows three private methods from the current class to be
+                called throughout the program whilst protecting their data members. 
+                This is done through data hiding and encapsulation, which protects the
+                integrity of and access to class members by preventing changes 
+                (Kumar, 2016).
+            </remarks>
+        </member>
+        <member name="T:PetrolStationManagement.Home">
+            <summary>
+                This class is used to draw all elements of the program onto the console
+                UI.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Home.DrawHome">
+            <summary>
+                A method to display the application title on the console UI.
+            </summary>
+            <remarks>
+                This method displays the app title (as an ASCII text banner)
+                on the console UI (patorjk.com, 2018). 
+            </remarks>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:PetrolStationManagement.Home.DisplayWelcomeMessage" -->
+        <member name="M:PetrolStationManagement.Home.DisplayMenu">
+            <summary>
+                A method to display the startup menu to the user.
+            </summary>
+            <remarks>
+                This method provides the user with the option to input their own fuel
+                prices (and no. of litres a pump can dispense per second) or use the
+                system defaults. If the user chooses to use the default values, the
+                UseDefaultValues() method is called - but if they choose to enter these 
+                values manually, the InputUserData() method is called.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Home.UseDefaultValues">
+            <summary>
+                A method to set the default data values for use in the program.
+            </summary>
+            <remarks>
+                This method is used to set the default data values for  
+                later use by the program. All prices are based off UK
+                averages and are written in pounds, not pence. The litres
+                dispensed per second value is set by default to 1.5, as 
+                per the Assignment Specification.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Home.ErrorMessage">
+            <summary>
+                A method to display an error message on the console.
+            </summary>
+            <remarks>
+                This method displays an error message to the user on 
+                the console when they have not entered a valid input.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Home.DisplayStartup">
+            <summary>
+                A public method to draw the program title and startup message 
+                onto the console UI.
+            </summary>
+            <remarks>
+                This method allows two private methods from the current class to be
+                called on program startup whilst protecting their data members. 
+                This is done through data hiding and encapsulation, which protects the
+                integrity of and access to class members by preventing changes 
+                (Kumar, 2016).
+            </remarks>
+        </member>
+        <member name="T:PetrolStationManagement.StaticVariables">
+            <summary>
+                A static class used to contain all static variables used in this program
+                for easy reference.
+            </summary>
+        </member>
+        <member name="T:PetrolStationManagement.Initialise">
+            <summary>
+                This class is used to initialise the program and all objects and 
+                events in it.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Initialise.InitialisePumps">
+            <summary>
+                A method used to create the nine petrol pumps.
+            </summary>    
+            <remarks>
+                This method creates nine instantiations of the
+                Pump class and adds each instantiation to the 
+                master Pumps list.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Initialise.InitialiseVehicles">
+            <summary>
+                A method used to continuously create a new vehicle every X seconds
+                (where X is random).
+            </summary>
+            <remarks>
+                This method first creates a new instantiation of the Vehicles class.
+                It then instantiates a new timer object to fire an event every
+                X seconds (where X is random and between 1.5 and 2 seconds). 
+                An event handler is then created for the event, meaning that the 
+                CreateVehicle() method from the Data class is called when the
+                event's time interval elapses.     
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Initialise.InitialiseFile">
+            <summary>
+                A method to check if the log file already exists and delete it if so.
+            </summary>
+            <remarks>
+                This method checks to see if the TransactionLog.txt file already 
+                exists, and if it does deletes the file to ensure that data from 
+                the program's life time is not compromised by data from a previous 
+                runtime.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Initialise.InitialiseProgram">
+            <summary>
+                A public method to initialise the program and all objects and events in 
+                it.
+            </summary>    
+            <remarks>
+                This method allows three private methods from the current class to be
+                called throughout the program whilst protecting their data members. 
+                This is done through data hiding and encapsulation, which protects the
+                integrity of and access to class members by preventing changes 
+                (Kumar, 2016).
+            </remarks>
+        </member>
+        <member name="T:PetrolStationManagement.Program">
+            <summary>
+                Main program class containing the methods needed to run the program
+                on a continuous loop.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Program.Main(System.String[])">
+            <summary>
+                A method to run the main program loop continuously.
+            </summary>
+            <remarks>
+                This method defines the entry point of the executable program and
+                then initialises the program upon startup.
+            </remarks>
+            <param name="args">A string array that represents command line arguments.</param>
+        </member>
+        <member name="M:PetrolStationManagement.Program.RunProgramLoop(System.Object,System.Timers.ElapsedEventArgs)">
+            <summary>
+                A method to redraw the console UI and assign vehicles to pump/queue.
+            </summary>
+            <remarks>
+                This method clears and redraws the console UI (using the most recent
+                data obtained in the program's lifetime) to give the impression of a 
+                'dynamic app'. It also calls on the AssignVehicleToPump() method to 
+                assign the most recently created vehicle to either a pump or the 
+                queue to imitate the process usually taken at a petrol station.
+            </remarks>
+            <param name="sender">Contains a reference to the time elapsed object which raised this event.</param>
+            <param name="e">A parameter containing the event data.</param>
+        </member>
+        <member name="T:PetrolStationManagement.Pump">
+            <summary>
+                A class to hold details of the Pump and all actions that happen whilst
+                at a pump.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Pump.#ctor(System.Int32)">
+            <summary>
+                A constructor for the Pump class.
+            </summary>
+            <param name="pnm">Holds current pump number.</param>
+        </member>
+        <member name="M:PetrolStationManagement.Pump.PumpIsAvailable">
+            <summary>
+                A method to check whether or not the given pump is available.
+            </summary>
+            <remarks>
+                This method returns true if the current vehicle is null (as
+                this means the pump is available for use), or returns false if
+                the current vehicle is not null (meaning in use).
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Pump.VehicleAssigned(PetrolStationManagement.Vehicle)">
+            <summary>
+                A method to release the vehicle from the pump once refuelling
+                has finished.
+            </summary>
+            <remarks>
+                This method not only removes the current vehicle from the forecourt
+                once the vehicle's refuel time has elapsed, but also calls upon 
+                the UpdateTotalLitresDispensed() method to record the litres of fuel
+                dispensed to that particular vehicle.      
+            </remarks>
+            <param name="v"></param>
+        </member>
+        <member name="M:PetrolStationManagement.Pump.UpdateTotalLitresDispensed(PetrolStationManagement.Vehicle)">
+            <summary>
+                A method to record the number of litres of fuel dispensed to 
+                the current vehicle.
+            </summary>
+            <remarks>
+                This method calculates the running total of number of litres
+                of each type of fuel dispensed. Logic is used to identify the
+                fuel type of the current vehicle, and the amount of litres of
+                fuel dispensed to that one vehicle is then calculated. This
+                amount is then added to the total number of litres of that
+                particular fuel type dispensed.
+            </remarks>
+            <param name="v"></param>
+        </member>
+        <member name="M:PetrolStationManagement.Pump.ReleaseVehicle(System.Object,System.Timers.ElapsedEventArgs)">
+            <summary>
+                A method to release the vehicle from a pump once it has been serviced.
+            </summary>
+            <remarks>
+                This method records the transaction details of the vehicle serviced
+                (vehicle type, number of litres of fuel dispensed and the pump 
+                number at which the vehicle was serviced) in a .txt file. The 
+                 current vehicle object reference is set to null in order to 
+                 remove the vehicle from the forecourt and free the pump for use 
+                 again. The method calling for the transaction log to be shown
+                 is then called in order to display the most recent transaction on
+                 the console, and the number of vehicles serviced in the program's 
+                 lifetime is incremented.
+            </remarks>
+            <param name="sender">Contains a reference to the time elapsed object which raised this event.</param>
+            <param name="e">A parameter containing the event data.</param>
+        </member>
+        <member name="T:PetrolStationManagement.Counters">
+            <summary>
+                This class is used to update all counter values displayed on the console UI.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Counters.UpdateCounters">
+            <summary>
+                A method to update counters #2, #4 and #5 (as stated in Assignment Specification).
+            </summary>
+            <remarks>
+                This method updates the total number of vehicles serviced in the program's 
+                lifetime (#4), the total number of vehicles which left the forecourt without
+                being serviced (#5) and the total value of the petrol sold (#2).
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Counters.UpdateLitresSold">
+            <summary>
+                A method to update counter #1 for each type of fuel (as stated in the Assignment
+                Specification).
+            </summary>
+            <remarks>
+                This method updates the total number of litres dispensed for each type of 
+                fuel (Unleaded, LPG and Diesel) during the app's lifetime.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Counters.CalculateAttendantWage">
+            <summary>
+                A method to update counter #3 and the fuel attendant's day wage inc. commission.
+            </summary>
+            <remarks>
+                This method first calculates the 1% commission by multiplying the total value
+                of fuel sold in the program's lifetime by 0.01. The fuel attendant's day
+                wage is then calculated by multiplying the hourly rate (£2.49) by the number 
+                of hours worked (8), and finally adding the 1% commission. 
+                
+                All figures are as stated in the Assignment Specification.
+            </remarks>
+        </member>
+        <member name="M:PetrolStationManagement.Counters.DisplayCounters">
+            <summary>
+                A public method to update all counter values displayed on the console
+                UI.
+            </summary>
+            <remarks>
+                This method allows three private methods from the current class to be
+                called throughout the program whilst protecting their data members. 
+                This is done through data hiding and encapsulation, which protects the
+                integrity of and access to class members by preventing changes 
+                (Kumar, 2016).
+            </remarks>
+        </member>
+        <member name="T:PetrolStationManagement.Random">
+            <summary>
+                A static class used to perform all the randomly generated selections 
+                used throughout the program.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Random.RandomCarFuelGenerator">
+            <summary>
+                A method to randomly select the fuel type of a newly created
+                car.
+            </summary>    
+            <remarks>
+                This method initialises a new list of strings containing three
+                elements (Unleaded, Diesel and LPG) which correspond to the 
+                three types of fuel a car can run on in this program. A new
+                random object (Microsoft, 2018) is then instantiated, using the
+                value given by the system as the random seed. The rand.Next() 
+                method is then used to return a non-negative random integer as an
+                index value - with the value of the position accessed in the list
+                being selected as the vehicle's fuel type. 
+            </remarks>
+            <returns>Randomly generated fuel type as a string.</returns>
+        </member>
+        <member name="M:PetrolStationManagement.Random.RandomVanFuelGenerator">
+            <summary>
+                A method to randomly select the fuel type of a newly created
+                van.
+            </summary>    
+            <remarks>
+                This method initialises a new list of strings containing two
+                elements (Diesel and LPG) which correspond to the two types 
+                of fuel a van can run on in this program. A new random object 
+                (Microsoft, 2018) is then instantiated, using the value given
+                by the system as the random seed. The rand.Next() method is
+                then used to return a non-negative random integer as an index
+                value - with the value of the position accessed in the list
+                being selected as the vehicle's fuel type. 
+            </remarks>
+            <returns>Randomly generated fuel type as a string.</returns>
+        </member>
+        <member name="M:PetrolStationManagement.Random.RandomVehicleGenerator">
+            <summary>
+                A method to randomly select the vehicle type of a newly created
+                vehicle.
+            </summary>    
+            <remarks>
+                This method initialises a new list of strings containing three
+                elements (Car, Van and HGV) which correspond to the three types
+                of vehicle found in this program. A new random object 
+                (Microsoft, 2018) is then instantiated, using the value given by
+                the system as the random seed. The rand.Next() method is then used
+                to return a non-negative random integer as an index value - with
+                the value of the position accessed in the list being selected as
+                the vehicle's fuel type.
+            </remarks>
+            <returns>Random vehicle type as a string.</returns>
+        </member>
+        <member name="M:PetrolStationManagement.Random.RandomCreationTime">
+            <summary>
+                A method to randomly select how often a new vehicle is created.
+            </summary>    
+            <remarks>
+                This method randomly generates an integer value between 1500 and
+                2200 (inclusive). A new random object (Microsoft, 2018) is 
+                instantiated, using the value given by the system as the random 
+                seed. The rand.Next() method is then used to return a non-negative
+                random integer as an index value - with the value of the position
+                accessed in the list being selected as the vehicle's fuel type.
+                
+                All figures are as stated in the Assignment Specification.
+            </remarks>
+            <returns>Random creation time as an integer.</returns>
+        </member>
+        <member name="M:PetrolStationManagement.Random.RandomQueueTime">
+            <summary>
+                A method to randomly select the length of time a vehicle can queue for
+                before being removed from the forecourt without being serviced.
+            </summary>
+            <remarks>
+                This method randomly generates an integer value between 1000 and
+                2200 (inclusive). A new random object (Microsoft, 2018) is 
+                instantiated, using the value given by the system as the random 
+                seed. The rand.Next() method is then used to return a non-negative
+                random integer as an index value - with the value of the position
+                accessed in the list being selected as the vehicle's fuel type.
+                
+                All figures are as stated in the Assignment Specification.
+            </remarks> 
+            <returns>Random queue time as an integer.</returns>
+        </member>
+        <member name="T:PetrolStationManagement.TransactionLog">
+            <summary>
+                 A static class to track and display each fuelling transaction made 
+                 during the program's lifetime. 
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.TransactionLog.LogVehicle(PetrolStationManagement.Vehicle,PetrolStationManagement.Pump)">
+            <summary>
+                A method to record each fuelling transaction (counter #6 as per
+                the Assignment Specification).
+            </summary>
+            <remarks>
+                This method uses the StreamWriter class to write the details of
+                each transaction to the TransactionLog.txt file. As per the 
+                Assignment Specification, the transaction log records the vehicle
+                type, the number of litres of fuel dispensed to that vehicle and
+                the pump number at which they were serviced. The file is then 
+                closed so that it can be accessed for display.
+            </remarks>
+            <param name="v"></param>
+            <param name="p"></param>
+        </member>
+        <member name="M:PetrolStationManagement.TransactionLog.ShowTransactions">
+            <summary>
+                A method to display the vehicle transaction log (counter #6).
+            </summary>
+            <remarks>
+                This method uses the StreamReader class to read the 
+                TransactionLog.txt file and displays its contents on the console
+                UI.
+            </remarks>
+        </member>
+        <member name="T:PetrolStationManagement.Vehicle">
+            <summary>
+                A class to hold the details of each individual vehicle in the program.
+            </summary>
+        </member>
+        <member name="M:PetrolStationManagement.Vehicle.#ctor(System.String)">
+            <summary>
+                A constructor for the Vehicle class.
+            </summary>
+            <remarks>
+                This constructor is used to initialise the vehicle members to
+                the appropriate values based upon the type of vehicle. The
+                constructor calculates a quarter of the maximum tank capacity,
+                and when an instance of the Vehicle class is created, the 
+                instance is created with a random amount of fuel in the tank
+                which does not exceed this quarter-tank capacity (as per the
+                Assignment Specification).
+                
+                Cars:
+                A fuel type is randomly selected from a choice of three (LPG,
+                Diesel and Unleaded). The maximum tank capacity is set to 40
+                litres.
+                
+                Vans:
+                A fuel type is randomly selected from a choice of two (LPG,
+                and Diesel). The maximum tank capacity is set to 80 litres.
+                
+                HGVs:
+                Fuel type is set to DieselThe maximum tank capacity is set to
+                150 litres.
+                
+                When instantiated, a new timer object is created. If that 
+                particular vehicle (/instance of the class) is not serviced
+                in a specific amount of time, that vehicle is removed from
+                the forecourt and from the master Vehicles list. This timer
+                is stopped when the vehicle has been assigned to a pump or
+                if the vehicle is finished being serviced.
+            </remarks>
+            <param name="vtp">Holds the current type of a vehicle.</param>
+        </member>
+    </members>
+</doc>
