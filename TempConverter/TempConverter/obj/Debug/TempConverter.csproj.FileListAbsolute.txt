@@ -1,0 +1,13 @@
+G:\010\TempConverter\TempConverter\bin\Debug\TempConverter.exe.config
+G:\010\TempConverter\TempConverter\bin\Debug\TempConverter.exe
+G:\010\TempConverter\TempConverter\bin\Debug\TempConverter.pdb
+G:\010\TempConverter\TempConverter\obj\Debug\TempConverter.csprojResolveAssemblyReference.cache
+G:\010\TempConverter\TempConverter\obj\Debug\TempConverter.exe
+G:\010\TempConverter\TempConverter\obj\Debug\TempConverter.pdb
+F:\010\Katy\TempConverter\TempConverter\bin\Debug\TempConverter.exe.config
+F:\010\Katy\TempConverter\TempConverter\bin\Debug\TempConverter.exe
+F:\010\Katy\TempConverter\TempConverter\bin\Debug\TempConverter.pdb
+F:\010\Katy\TempConverter\TempConverter\obj\Debug\TempConverter.csprojAssemblyReference.cache
+F:\010\Katy\TempConverter\TempConverter\obj\Debug\TempConverter.csproj.CoreCompileInputs.cache
+F:\010\Katy\TempConverter\TempConverter\obj\Debug\TempConverter.exe
+F:\010\Katy\TempConverter\TempConverter\obj\Debug\TempConverter.pdb
