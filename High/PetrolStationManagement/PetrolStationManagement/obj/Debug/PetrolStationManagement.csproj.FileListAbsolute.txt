@@ -1,0 +1,57 @@
+\\cifxdcawppa0001\home_business\T0201615\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+\\cifxdcawppa0001\home_business\T0201615\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csprojResolveAssemblyReference.cache
+\\cifxdcawppa0001\home_business\T0201615\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe
+\\cifxdcawppa0001\home_business\T0201615\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.pdb
+\\cifxdcawppa0001\home_business\T0201615\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+\\cifxdcawppa0001\home_business\T0201615\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+H:\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+H:\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+H:\Uni\1. Fundamentals of Software Development\Element 011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+G:\011\Basic\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+G:\011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+G:\011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+G:\011\Basic\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe
+G:\011\Basic\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.pdb
+G:\011\Basic\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csprojResolveAssemblyReference.cache
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.pdb
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csprojResolveAssemblyReference.cache
+F:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+F:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe
+F:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.pdb
+F:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csproj.CoreCompileInputs.cache
+F:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+F:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+F:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csprojAssemblyReference.cache
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\Documentation\PetrolStationManagement.exe.config
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\Documentation\XMLDocumentation\PetrolStationManagement.exe.config
+G:\011\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.XML
+G:\011\Solution\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+G:\011\Solution\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+G:\011\Solution\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+G:\011\Solution\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe
+G:\011\Solution\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.pdb
+G:\011\Solution\Intermediate\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.XML
+G:\011\Solution\Intermediate\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csprojResolveAssemblyReference.cache
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.pdb
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.XML
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csprojResolveAssemblyReference.cache
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csprojAssemblyReference.cache
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.csproj.CoreCompileInputs.cache
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.exe
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\obj\Debug\PetrolStationManagement.pdb
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe.config
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.exe
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.pdb
+F:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\bin\Debug\PetrolStationManagement.XML
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\Documentation\XMLDocumentation\PetrolStationManagement.exe.config
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\Documentation\XMLDocumentation\PetrolStationManagement.exe
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\Documentation\XMLDocumentation\PetrolStationManagement.pdb
+G:\011\Solution\High\PetrolStationManagement\PetrolStationManagement\Documentation\XMLDocumentation\PetrolStationManagement.XML
